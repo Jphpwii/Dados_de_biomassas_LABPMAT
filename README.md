@@ -2,6 +2,13 @@
 Essa pasta foi criada com o intuito de ser utilizada pelo [Laboratório de Polímeros e Materiais Lignocelulósicos da UFPel](https://wp.ufpel.edu.br/lapol/).
 O objetivo é que todos os pesquisadores armazenem os dados coletados nas pastas disponibilizadas, garantindo um repositório centralizado. Posteriormente, esses dados serão organizados, tratados e integrados em um banco de dados consolidado para análises e aplicações futuras.
 
-A organização deste repositório é em Google Drive.
+A organização deste repositório é em Google Drive. O link foi disponibilizado para os colegas pesquisadores.
+
+Pastas:
+1. [Concentrações de compostos em cada tipo de biomassa](https://docs.google.com/document/d/18ZYDprJxTevOZJ0zc4tIUeS5lyUQBKgpKGMFlRFbZT0/edit?usp=sharing)
+2. Propriedades mecânicas
+3. TGAs
+4. FTIRs
+5. Referências
 
 Em caso de dúvidas, comentários, sugestões ou comunicados, favor entrar em contato com [João Pedro Lopes](https://flow.page/jplopes).
