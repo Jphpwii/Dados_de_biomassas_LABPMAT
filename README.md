@@ -2,7 +2,7 @@
 Essa pasta foi criada com o intuito de ser utilizada pelo [Laboratório de Polímeros e Materiais Lignocelulósicos da UFPel](https://wp.ufpel.edu.br/lapol/).
 O objetivo é que todos os pesquisadores armazenem os dados coletados nas pastas disponibilizadas, garantindo um repositório centralizado. Posteriormente, esses dados serão organizados, tratados e integrados em um banco de dados consolidado para análises e aplicações futuras.
 
-A organização deste repositório é em Google Drive, sendo necessário ter uma conta Google e requisitar o acesso através [desse link](https://drive.google.com/drive/folders/1dBpYEx9owOjAEs5luCbXkVsG30MwvGpS?usp=sharing) (clique em "desse link" para acessar).
+[A organização deste repositório é em Google Drive, sendo necessário ter uma conta Google e requisitar o acesso através desse link](https://drive.google.com/drive/folders/1dBpYEx9owOjAEs5luCbXkVsG30MwvGpS?usp=sharing).
 
 
 Pastas:
