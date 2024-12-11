@@ -12,4 +12,4 @@ Pastas:
 4. FTIRs
 5. Referências
 
-Em caso de dúvidas, comentários, sugestões ou comunicados, favor entrar em contato com [João Pedro Lopes](https://flow.page/jplopes).
+Em caso de dúvidas, comentários, sugestões ou comunicados, favor entrar em contato com [João Pedro](https://flow.page/jplopes).
