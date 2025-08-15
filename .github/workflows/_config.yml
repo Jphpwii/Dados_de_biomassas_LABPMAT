@@ -1,0 +1,16 @@
+title: "My Site"
+description: "Short tagline"
+url: "https://username.github.io"
+baseurl: ""        # if project page: "/repo-name"
+remote_theme: mmistakes/minimal-mistakes
+markdown: kramdown
+
+# If you want pages in the nav without coding menus:
+collections:
+  pages:
+    output: true
+
+# Plugins supported by GitHub Pages:
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
